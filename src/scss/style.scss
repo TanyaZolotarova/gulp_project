@@ -1,0 +1,11 @@
+$bg-color: grey;
+$color: yellow;
+
+body {
+  background-color: $bg-color;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: $color;
+}
